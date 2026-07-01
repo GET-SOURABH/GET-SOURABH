@@ -94,35 +94,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GET-SOURABH&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GET-SOURABH&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GET-SOURABH&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GET-SOURABH&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GET-SOURABH&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sourabhanalytics
