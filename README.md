@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sourabh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+IIIT+Delhi;Aspiring+Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Automation;Building+Software+for+Real-World+Problems;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Computer+Science+Student+at+IIIT+Delhi;Aspiring+Data+Analyst;Python+Developer;Power+BI+%7C+SQL+%7C+Automation;Building+Software+for+Real-World+Problems;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
@@ -13,19 +13,25 @@
   </a>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-🎓 Final-year B.Tech student in **Computer Science & Biosciences** at **IIIT Delhi**
-
-💡 Passionate about building practical software and solving real-world business problems using **Python, SQL, Data Analytics, and AI-assisted development**.
-
-🚀 Currently focused on **Data Analytics, Python Development, AI Automation, and Business Intelligence**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GET-SOURABH&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 About Me
+
+🎓 Final-year **B.Tech Computer Science & Biosciences** student at **IIIT Delhi**
+
+💡 Passionate about building practical software and solving real-world business problems using **Python, SQL, Data Analytics, and AI-assisted Development**.
+
+🚀 Currently focused on **Data Analytics, Python Development, AI Automation, Business Intelligence, and Web Development**.
+
+📈 Always looking for opportunities to build impactful projects and learn new technologies.
+
+---
+
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -52,15 +58,15 @@
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 💻 Freelance Web Developer & AI Content Creator
+## 💻 Freelance Web Developer & AI Content Creator
 
 - Built websites for real clients using HTML, CSS, JavaScript, and AI-assisted development.
 - Created AI-generated content for businesses.
 - Worked directly with client requirements and business goals.
 
-### 🐍 Software Development Intern — YoZu
+## 🐍 Software Development Intern — YoZu
 
 - Built a Python-based math equation solver.
 - Integrated AI/API features.
@@ -68,19 +74,18 @@
 
 ---
 
-## 📂 Featured Projects
+# 📂 Featured Projects
 
-📈 **Blinkit Grocery Sales Analytics** *(Power BI)*
-
-🎬 **Netflix Dataset Analysis** *(SQL)*
-
-🛒 **Retail Sales Dashboard** *(Excel)*
-
-📉 **Algorithmic Trading Strategy Automation** *(Python & Pine Script)*
+| Project | Description | Tech |
+|---------|-------------|------|
+| 📈 Blinkit Grocery Sales Analytics | Interactive dashboard to analyze sales, products, and customer insights | Power BI |
+| 🎬 Netflix Dataset Analysis | SQL analysis of genres, countries, release trends, and content distribution | SQL |
+| 🛒 Retail Sales Dashboard | Dynamic Excel dashboard with Pivot Tables, slicers, and KPIs | Excel |
+| 📉 Algorithmic Trading Strategy Automation | Converted Pine Script strategies into Python for automation and backtesting | Python, Pine Script |
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Advanced SQL
 - Data Visualization
@@ -89,20 +94,36 @@
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GET-SOURABH&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GET-SOURABH&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GET-SOURABH&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GET-SOURABH&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GET-SOURABH&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=GET-SOURABH&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GET-SOURABH&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GET-SOURABH&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 📫 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sourabhanalytics
 - 📧 Email: **sourabh55jan@gmail.com**
